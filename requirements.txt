@@ -4,3 +4,7 @@ Flask-JWT
 Flask-SQLAlchemy
 uwsgi
 psycopg2
+itsdangerous
+aniso8601
+SQLAlchemy
+MarkupSafe
